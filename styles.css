@@ -79,7 +79,7 @@ body {
 }
 
 .player:hover .progress {
-  height: 20px;
+  height: 15px;
 }
 
 .player__controls > * {
